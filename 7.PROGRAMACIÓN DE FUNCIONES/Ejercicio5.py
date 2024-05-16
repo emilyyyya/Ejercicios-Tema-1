@@ -26,4 +26,4 @@ maximo = float(input("Ingresa el límite superior: "))
 numero_recortado = recortar(numero, minimo, maximo)
 
 # Mostrar el número recortado
-print("El número recortado entre {} y {} es: {}".format(minimo, maximo, numero_recortado))
+print("El valor recortado entre {} y {} es: {}".format(minimo, maximo, numero_recortado))
